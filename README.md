@@ -1,14 +1,13 @@
 # jokes
-Joke Fetcher App
-A simple Node.js application that fetches jokes from the icanhazdadjoke API based on search terms, displays a random joke, and allows users to save jokes to a file. It also features a leaderboard to showcase the most popular jokes among saved ones.
 
-Prerequisites
-Make sure you have Node.js installed on your machine.
 
-Install dependencies
-npm install
 
-Joke Fetcher App
+<p>Make sure you have Node.js installed on your machine.</p>
+
+<h1>Install dependencies</h1>
+<p></p>npm install</p>
+
+<h1>Joke Fetcher App</h1>
 #Usage #Search for Jokes To search for jokes, run the following command: node index.js searchTerm
 
 Replace with your desired search term.
